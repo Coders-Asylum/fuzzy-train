@@ -1,0 +1,28 @@
+Backend 🔌:
+  - custom_card_design/lib/backend/**/*
+
+main.dart 🚨:
+  - custom_card_design/lib/main.dart
+
+Frontend 📱:
+  - custom_card_design/lib/screens/* 
+  - custom_card_design/lib/screens/**/*
+
+Asset Library Update 📦:
+- custom_card_design/assets/*
+
+Test 🧪:
+  - custom_card_design/test/*
+
+pupspec.yaml updated:
+- custom_card_design/pubspec.yaml
+
+android 🤖:
+- custom_card_design/android/**/*
+
+ios 🍎:
+- custom_card_design/ios/**/**
+
+Circle CI:
+- .circleci/*
+- .circleci/**/*
