@@ -1,16 +1,8 @@
 # custom_card_design
 
-A card design created while answering a Stackoverflow question, with dynamic dimensions.
+### A dummy named project, just to test the capablities of application that use the github api to perform tasks.
 
-## Getting Started
+### This foder will be used to test the applications abilty to change, read, delete files in different levels of the repository.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br><br>
+># Remember: This is a Sandbox environent files here can be corupted or dont serve the value and purpose they are naming conviction would otherwise indicate. Pls Refrain from downloading/Forking/Using this repository and the files.
